@@ -6,7 +6,7 @@
     "authors": [
         {
             "name": "gcholletCA",
-            "email": "grégoire.chollet@tagcommander.com"
+            "email": "gregoire.chollet@tagcommander.com"
         }
     ],
     "require": {
@@ -18,10 +18,5 @@
         "psr-4": {
             "SocialiteProviders\\Adobe\\": ""
         }
-    },
-    "support": {
-        "issues": "",
-        "source": "",
-        "docs": ""
     }
 }
